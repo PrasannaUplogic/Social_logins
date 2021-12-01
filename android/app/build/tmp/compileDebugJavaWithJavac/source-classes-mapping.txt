@@ -1,0 +1,14 @@
+com/stripe_newversion/BuildConfig.java
+ com.stripe_newversion.BuildConfig
+com/stripe_newversion/MainApplication.java
+ com.stripe_newversion.MainApplication
+ com.stripe_newversion.MainApplication$1
+com/stripe_newversion/MainActivity.java
+ com.stripe_newversion.MainActivity
+com/stripe_newversion/ReactNativeFlipper.java
+ com.stripe_newversion.ReactNativeFlipper
+ com.stripe_newversion.ReactNativeFlipper$1
+ com.stripe_newversion.ReactNativeFlipper$2
+ com.stripe_newversion.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

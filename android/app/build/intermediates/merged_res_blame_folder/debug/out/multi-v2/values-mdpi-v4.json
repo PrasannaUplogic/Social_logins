@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/uplogic/Documents/ztest/stripe_newversion/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/uplogic/.gradle/caches/transforms-2/files-2.1/f3e1f6c51957d7d013cb2e2670e8c434/jetified-payments-core-16.10.2/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050029668987",
+    "project_id": "fbpushmsg-ac9d3",
+    "storage_bucket": "fbpushmsg-ac9d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050029668987:android:fb254a816e972e9aeac0de",
+        "android_client_info": {
+          "package_name": "com.stripe_newversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050029668987-p3rkvjvkcrvp4ootvvnbutgh6s228u5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9EPDzogI1wBls3MrcgLvdOryN6S2lCzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050029668987-p3rkvjvkcrvp4ootvvnbutgh6s228u5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

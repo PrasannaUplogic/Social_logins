@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/uplogic/Documents/ztest/stripe_newversion/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/uplogic/.gradle/caches/transforms-2/files-2.1/179ae4fc6514e906318793066accc500/jetified-twitter-core-3.0.0/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "54",
+                        "endOffsets": "162"
+                    }
+                },
+                {
+                    "source": "/home/uplogic/.gradle/caches/transforms-2/files-2.1/f3e1f6c51957d7d013cb2e2670e8c434/jetified-payments-core-16.10.2/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}
